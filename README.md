@@ -1,10 +1,12 @@
 # expert-doodle
 
-### README
+### README 🎉
 - info
 - info
 - info
 
-[ ] task
-[ ] task
-[ ] task
+✅ task
+
+✅ task
+
+✅ task
